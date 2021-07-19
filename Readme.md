@@ -1,0 +1,1 @@
+Olá, este é um projeto git de teste meu, enquanto estou aprendendo a usar o Git e o GitHub.
